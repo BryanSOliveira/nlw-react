@@ -21,12 +21,3 @@ npm run dev
 # ou 
 yarn dev
 ```
-
-
-
-## Imagens
-
-<img src="C:\Users\spbry\AppData\Roaming\Typora\typora-user-images\image-20210707195047127.png" alt="image-20210707195047127" style="zoom:50%;" />
-
-![image-20210707195140618](C:\Users\spbry\AppData\Roaming\Typora\typora-user-images\image-20210707195140618.png)
-

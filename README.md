@@ -1,4 +1,4 @@
-# Next Level Week - Rocketseat
+#  🚀 Next Level Week - Rocketseat
 
 Participei por curiosidade, nunca tinha visto TypeScript e React. 
 
@@ -6,18 +6,12 @@ Criamos um projeto chamado Podcastr, onde há vários podcasts e podemos navegar
 
 
 
-##  Instalação e execução
+##  🔧 Instalação e execução
 
-Instale as dependências do projeto:
+Para rodar o projeto siga o passo a passo:
 
-```
-npm install
-```
-
-Execute o projeto:
-
-```
-npm run dev
-# ou 
-yarn dev
-```
+- Primeiramente acesse dois terminais diferentes no diretório raiz do projeto;
+- No terminal 1 execute o comando `yarn` e aguarde;
+- Ainda no terminal 1 execute o comando `yarn server`;
+- No terminal 2 execute o comando `yarn dev`;
+- Agora acesse [http://localhost:3000/](http://localhost:3000/);
